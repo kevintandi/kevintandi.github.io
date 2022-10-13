@@ -5,6 +5,25 @@
     <link>https://kevintandi.github.io/categories/</link>
     <description>Recent content in Categories on Kevin Tandi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://kevintandi.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 May 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://kevintandi.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Metaphorsum</title>
+      <link>https://kevintandi.github.io/categories/metaphorsum/</link>
+      <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://kevintandi.github.io/categories/metaphorsum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post</title>
+      <link>https://kevintandi.github.io/categories/post/</link>
+      <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://kevintandi.github.io/categories/post/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
